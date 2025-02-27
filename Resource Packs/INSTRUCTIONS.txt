@@ -1,0 +1,3 @@
+The packs provided here contain ONLY the necessay files for minecraft version compatibility and bug fixes.
+You must load this pack "on top" or afer the Offical version of Chroma Hills downloaded from https://chromahills.com/
+You must also update the pack.mcmeta file in the offical recouce pack - see guide in root of this github.
