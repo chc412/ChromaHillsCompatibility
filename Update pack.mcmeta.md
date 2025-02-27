@@ -9,7 +9,7 @@ The file when opened from chromahills recource pack looks like this;
   }
 }
 
-You need to change the Pack_format number to maych the version of minecraft you want to play. A chart can be found at https://minecraft.wiki/w/Pack_format
+You need to change the Pack_format number to match the version of minecraft you want to play. A chart can be found at https://minecraft.wiki/w/Pack_format
 Make sure you look at Recource Pack table, not the Data Pack table.
 For minecraft version 1.21, the pack format will be 34
 
