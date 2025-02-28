@@ -3,6 +3,7 @@ This file serves as a complete change list for all files except pack.mcmeta
 ------
 
 Change 1: Creative Inventory Tabs
+
 File Directory; "\assets\minecraft\textures\gui\container\creative_inventory\tabs.png"
 
 In minecraft version 1.19.3 the creative inventory was modified to increase tabs count and the "tabs.png" texture layout was changed.
@@ -11,6 +12,7 @@ The update was simple, the individule tabs simply needed to realinged to match t
 ------
 
 Change 2: US Language File
+
 File Driectory "assets\minecraft\lang"
 
 In the language files it is possible to cahnge the color of text by appending § plus a color code to the name. 
