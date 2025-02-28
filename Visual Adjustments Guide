@@ -51,7 +51,7 @@ Directory: assets\minecraft\textures\block\smooth_stone_slab.png
 
 Directory: assets\minecraft\textures\block\smooth_stone_slab_side.png
 
-The Smooth Stone Slab does not look like Smooth Stone. This makes useing the block and slab varients together no work like the rest of the slab blocks.
+The Smooth Stone Slab does not look like it's whole block counterpart, Smooth Stone. This makes useing the block and slab varients together not work like the rest of the slab blocks.
 To fix this I copied the texture from Smooth Stone over the textures for the slab and slab side.
 
 ---
