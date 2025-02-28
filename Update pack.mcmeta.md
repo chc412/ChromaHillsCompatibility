@@ -24,4 +24,4 @@ If you are windows, and do not intall an archive-program, you will need to right
 A diologe box will appear, select a location, or leave it at default, and press the Extract button.
 You will now have a regular folder that you can edit and replace files in.
 Once you are done, go to the root folder of the texture pack, you will see a folder called "assets", some txt documents and file called pack.png.
-Select all of these files, right click them and hover over the "send to" option, and select "Compressed (Zipped) Folder". (On windows 11, you will have to click "Show more Options" first_
+Select all of these files, right click them and hover over the "send to" option, and select "Compressed (Zipped) Folder". (On windows 11, you will have to click "Show more Options" first)
