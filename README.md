@@ -4,7 +4,7 @@ Compability and bug fixes for the Minecraft Chroma Hills Texture Pack.
 Chroma Hills is a recource pack created by Syclone Studios LLC. It last full update was April 12 2022.
 Between April 2022 and Jan 6 2024 there have been multiple promises of updates that have not arrived as of Feb 26 2025. If there is an offical ChromaHills update, this github will be taken down.
 
-The scope of this github is to respect the orginal license as best as possible while keeping the pack updated to the latest release version of minecraft. It will not be a dump of all files, but instead only host files that are needed to be replaced in the recorce pack for comatibility. The latest offical version is avalible on https://chromahills.com/ 
+The goal of this github is to respect the orginal license as best as possible while keeping the pack updated to the latest release version of minecraft. It will not be a dump of all files, but instead only host files that are needed to be replaced in the recorce pack for comatibility. The latest offical version is avalible on https://chromahills.com/ 
 Only if the offical download becomes no longer avaliable will the whole pack be uploaded for archival purposes.
 
 No new textures will be added, for new content you must use default textures or load a different resource pack along side Chroma Hills.
