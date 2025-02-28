@@ -11,14 +11,14 @@ The file when opened from chromahills recource pack looks like this;
 }
  
 You need to change the Pack_format number to match the version of minecraft you want to play. A chart can be found at https://minecraft.wiki/w/Pack_format
-Make sure you look at Recource Pack table, not the Data Pack table.
+Make sure you use the Recource Pack table, not the Data Pack table.
 For minecraft version 1.21, the pack format will be 34
 
 ----
 
 How to open the file;
 Once you have downloaded the ChromaHills-128x-1.19v1.zip file you will nbeed to open it.
-The easist method is to a archive-program, such as 7-zip, that allows you to open and edit the contents with out needing to extract the entire archive.
+The easist method is to use an archive-program, such as 7-zip, that allows you to open and edit the contents with out needing to extract the entire archive.
 
 
 If you are windows, and do not intall an archive-program, you will need to right click the zip file and find the "Extract All" file in the context meunu. 
