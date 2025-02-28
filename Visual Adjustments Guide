@@ -40,7 +40,7 @@ Directory: \assets\minecraft\textures\painting\
 
 At somepoint Minecraft stoped supporting paintings with transparnacy. 
 
-Many of ChromaHills paintings that relyed on transparent backgrounds, such as the map or untentials now have an solid color filling in transparent space.
+Many of ChromaHills paintings depended on transparent backgrounds, such as the map or untentials, now have an solid color filling in the transparent space.
 I replaced the paintings with ones from different packs.
 
 ---
