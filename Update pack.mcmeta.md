@@ -4,11 +4,11 @@ The file when opened from chromahills recource pack looks like this;
 
 
 { \
-  "pack": { 
-    "pack_format": 9, 
-    "description": "RPG with a cartoon twist!" 
-  } 
-} 
+  "pack": { \
+    "pack_format": 9, \
+    "description": "RPG with a cartoon twist!" \
+  } \
+} \
  
 You need to change the Pack_format number to match the version of minecraft you want to play. A chart can be found at https://minecraft.wiki/w/Pack_format
 Make sure you look at Recource Pack table, not the Data Pack table.
