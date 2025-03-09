@@ -17,3 +17,7 @@ To respect the license, texture files will be not edited unless they pose a sign
 The textures will not be modified in a way that changes the art; in the case of the creative inventory, the tabs textures were simply duplicated and re-alligned to match the new inventory layout.
 
 The main file that will be need to be updated is the pack.mcmeta file. In most case updating the the pack format number will be sufficant to load the texture pack into later version of the game. The pack format number has increased signfigantly sience release version 1.19. Release version 1.21 is pack format 34. The github will not host a new version for every minecraft version, instead a guide on how to update the number is provided, although some may prefer to find a video tutorial online "How to update recource pack" is a helpful search term.
+
+---
+
+Please excuse the multiple spelling errors, I've typed most this on mobile late at night. 
