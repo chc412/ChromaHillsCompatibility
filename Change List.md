@@ -17,6 +17,7 @@ File Driectory "assets\minecraft\lang"
 
 In the language files it is possible to change the color of text by appending § plus a color code to the name. 
 For example chaning line 4117 to "itemGroup.buildingBlocks": "§fBuilding Blocks" makes Building Blocks title in the inventory white oppsed to the default grey.
-I have changee the invenotry text colors to white so they are legible agasint the wood-grain texture of Chroma Hills inventory. ("Operator Utlities" text was changed to Orange)
+
+I have changed the inventory text colors to white so they are legible against the wood-grain texture of Chroma Hills inventory. ("Operator Utlities" text was changed to Orange)
 
 ------
