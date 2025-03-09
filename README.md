@@ -20,4 +20,4 @@ The main file that will be need to be updated is the pack.mcmeta file. In most c
 
 ---
 
-Please excuse the multiple spelling errors, I've typed most this on mobile late at night. 
+Please excuse the multiple spelling errors within the documentation, I've typed most this on mobile late at night. 
