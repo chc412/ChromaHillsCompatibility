@@ -17,7 +17,7 @@ For minecraft version 1.21, the pack format will be 34
 ----
 
 How to open the file;
-Once you have downloaded the ChromaHills-128x-1.19v1.zip file you will nbeed to open it.
+Once you have downloaded the ChromaHills-128x-1.19v1.zip file you will need to open it.
 The easist method is to use an archive-program, such as 7-zip, that allows you to open and edit the contents with out needing to extract the entire archive.
 
 
