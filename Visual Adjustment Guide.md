@@ -29,7 +29,7 @@ Directory: \assets\minecraft\textures\entity\banner\
 
 Directory: \assets\minecraft\textures\entity\shield\
 
-Chroma Hills complely changes the texture for mojang.png. They changed the mojang logo to their own CH logo. 
+Chroma Hills completely changes the texture for mojang.png. They changed the mojang logo to their own CH logo. 
 This change breaks banner designs made by players with out the pack. I found an HD banner icon set that was faithful to the default minecraft design.
 
 ---
